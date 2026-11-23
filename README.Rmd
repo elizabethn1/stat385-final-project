@@ -1,0 +1,15 @@
+---
+title: "README"
+output: html_document
+---
+
+# QSAR Biodegradation Project
+
+Group Members:
+- Elizabeth Ng
+- Pihu Patel
+
+Questions
+1. Can the 41 molecular descriptors be used to accurately classify a chemical as ready biodegradable (RB) or not ready biodegradable (NRB), and which statistical or machine-learning method gives the best classification performance? 
+2. Which molecular descriptors are most important for predicting biodegradability? 
+
