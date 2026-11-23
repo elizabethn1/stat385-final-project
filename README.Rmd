@@ -1,9 +1,4 @@
----
-title: "README"
-output: html_document
----
-
-# QSAR Biodegradation Project
+QSAR Biodegradation Project
 
 Group Members:
 - Elizabeth Ng

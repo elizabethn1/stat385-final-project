@@ -1,15 +1,2 @@
-# Exploratory Data Analysis
-
-
-
-
-
-# All Work for Question 1
-
-
-
-
-
-
-
-# All Work for Question 2
+# NOTE: Once all coding parts of the project are done, put them here. This is the last step.
+# Everyone should work in their own R files to prevent any github conflicts.
