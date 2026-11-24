@@ -5,6 +5,6 @@ Group Members:
 - Pihu Patel
 
 Questions
-1. Can the 41 molecular descriptors be used to accurately classify a chemical as ready biodegradable (RB) or not ready biodegradable (NRB), and which statistical or machine-learning method gives the best classification performance? 
-2. Which molecular descriptors are most important for predicting biodegradability? 
+1. Can the 41 molecular descriptors be used to accurately classify a chemical as ready biodegradable (RB) or not ready biodegradable (NRB), and which statistical or machine-learning method gives the best classification performance? (assigned to Elizabeth)
+2. Which molecular descriptors are most important for predicting biodegradability? (assigned to Pihu)
 

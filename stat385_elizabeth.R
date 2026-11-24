@@ -121,4 +121,9 @@ table(test_data$Biodegradable)
 
 
 
-
+# Methods that Elizabeth will do for Question 1:
+# Logistic regression
+# LDA
+# KNN
+# Classification Tree
+# Random Forest
