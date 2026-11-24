@@ -82,5 +82,17 @@ sum(is.na(biodeg))
 
 
 
+# Class distribution plot
+library(ggplot2)
+
+ggplot(biodeg,
+       aes(x = Biodegradable)) +
+  geom_bar(fill = "steelblue") +
+  labs(
+    title = "Distribution of Biodegradability Classes",
+    x = "Class",
+    y = "Count"
+  )
+
 
 
