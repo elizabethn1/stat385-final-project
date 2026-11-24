@@ -96,3 +96,29 @@ ggplot(biodeg,
 
 
 
+# Data preparation AKA split into training and test sets
+set.seed(123)
+
+library(caret)
+
+train_index <- createDataPartition(
+  biodeg$Biodegradable,
+  p = 0.8,
+  list = FALSE
+)
+
+train_data <- biodeg[train_index, ]
+test_data  <- biodeg[-train_index, ]
+
+dim(train_data)
+dim(test_data)
+
+prop.table(table(train_data$Biodegradable))
+prop.table(table(test_data$Biodegradable))
+
+table(train_data$Biodegradable)
+table(test_data$Biodegradable)
+
+
+
+
